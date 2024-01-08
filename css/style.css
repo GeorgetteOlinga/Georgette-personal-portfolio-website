@@ -285,6 +285,9 @@ ul
     margin-bottom: 20px;
     display: block;
 }
+
+
+
 .aside .nav li a
 {
     font-size: 16px;
@@ -302,6 +305,9 @@ ul
 {
     margin-right: 15px;
 }
+
+
+
 /* home */
 .home
 {
@@ -376,6 +382,7 @@ h3.my-profession
     border-radius: 5px;
     height: 400px;
 }
+
 /* About */
 .about .about-content
 {
